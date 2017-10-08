@@ -1,0 +1,3 @@
+apt-get install python-sphinx texlive-latex-recommended dvipng librsvg2-bin imagemagick docbook2x
+make html
+epiphany _build/html/index.html
